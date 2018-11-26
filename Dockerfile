@@ -1,4 +1,4 @@
-FROM emnili/rpi-alpine-scratch
+FROM emnili/rpi-base
 
 Maintainer Guenther Morhart
 
